@@ -1,4 +1,4 @@
-# I am Red ❤ React / React Native Developer - I work by my heart
+# I am React ❤ React Native Developer.
 
 <a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
