@@ -1,4 +1,4 @@
-# I am React ❤ React Native Developer.
+# I am Ruby on Rails ❤ React Developer.
 
 <a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
@@ -80,3 +80,20 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+
+# SIMPLE SUBSCRIPTION PLATFORM
+Create a simple subscription platform(only RESTful APIs with MySQL) in which users can subscribe to a website (there can be multiple websites in the system). Whenever a new post is published on a particular website, all it's subscribers shall receive an email with the post title and description in it. (no authentication of any kind is required)
+
+## Installation Setup
+1. Clone the repository
+2. Run `composer install` to install the dependencies.
+3. Run `composer run-script post-root-package-install` to generate your local `.env` file.
+4. Run `composer run-script post-create-project-cmd` to generate your application key.
+5. Open your `.env` and configure your database credentials.
+6. Run `php artisan migrate --seed`
+
+Hello, everyone!
+I would like contact you via skype or telegram.
+so my address is skype  live:.cid.52bd20abf27c362c
+and telegram  thedevhuman# I am Ruby on Rails ❤ React Developer.
