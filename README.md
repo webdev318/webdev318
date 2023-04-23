@@ -1,4 +1,12 @@
 # I am Ruby on Rails ❤ Full Stack Developer.
+👋 Hi, I’m @webdev318
+👀 I’m interested in Ruby and Javascript 
+💞️ I’m looking to collaborate on fun project
+
+# How to contact me.
+🌱I would like contact you via skype or telegram.</br>
+My skype name is webdev318 (live:.cid.52bd20abf27c362c)</br>
+telegram: thedevhuman</br>
 
 <a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
@@ -80,12 +88,6 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-# How to contact me.
-Hello, everyone!</br>
-I would like contact you via skype or telegram.</br>
-My skype name is webdev318 (live:.cid.52bd20abf27c362c)</br>
-telegram: thedevhuman</br>
 
 # SIMPLE SUBSCRIPTION PLATFORM
 Create a simple subscription platform(only RESTful APIs with MySQL) in which users can subscribe to a website (there can be multiple websites in the system). Whenever a new post is published on a particular website, all it's subscribers shall receive an email with the post title and description in it. (no authentication of any kind is required)
