@@ -82,10 +82,10 @@
 </div>  
 
 # How to contact me.
-Hello, everyone!
-I would like contact you via skype or telegram.
-My skype name is webdev318 (live:.cid.52bd20abf27c362c)
-telegram: thedevhuman
+Hello, everyone!</br>
+I would like contact you via skype or telegram.</br>
+My skype name is webdev318 (live:.cid.52bd20abf27c362c)</br>
+telegram: thedevhuman</br>
 
 # SIMPLE SUBSCRIPTION PLATFORM
 Create a simple subscription platform(only RESTful APIs with MySQL) in which users can subscribe to a website (there can be multiple websites in the system). Whenever a new post is published on a particular website, all it's subscribers shall receive an email with the post title and description in it. (no authentication of any kind is required)
