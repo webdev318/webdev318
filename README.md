@@ -1,7 +1,7 @@
 # I am Ruby on Rails ❤ Full Stack Developer.
-👋 Hi, I’m @webdev318
-👀 I’m interested in Ruby and Javascript 
-💞️ I’m looking to collaborate on fun project
+👋 Hi, I’m @webdev318</br>
+👀 I’m interested in Ruby and Javascript</br>
+💞️ I’m looking to collaborate on fun project</br>
 
 # How to contact me.
 🌱I would like contact you via skype or telegram.</br>
