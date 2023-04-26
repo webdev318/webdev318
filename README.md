@@ -1,4 +1,4 @@
-# I am Ruby on Rails ❤ Full Stack Developer.
+# I am JavaScript ❤ Ruby on Rails Developer.
 👋 Hi, I’m @webdev318</br>
 👀 I’m interested in Ruby and Javascript</br>
 💞️ I’m looking to collaborate on fun project</br>
